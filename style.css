@@ -1,0 +1,17 @@
+body {
+    
+    background-color: PowderBlue;
+}
+ 
+div.jumbotron {
+    background-color: PowderBlue;
+}
+
+section.main.jumbotron {
+    background-color: PowderBlue;
+}
+
+div.thumbnail.col-sm-6 {
+    background-color: PowderBlue;
+}
+
